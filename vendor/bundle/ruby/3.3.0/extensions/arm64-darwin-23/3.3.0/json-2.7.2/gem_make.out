@@ -1,0 +1,16 @@
+current directory: /Users/danieltorres/SocialMedia/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/danieltorres/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/danieltorres/SocialMedia/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240919-56288-nfsgjn sitelibdir\=./.gem.20240919-56288-nfsgjn clean
+
+current directory: /Users/danieltorres/SocialMedia/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240919-56288-nfsgjn sitelibdir\=./.gem.20240919-56288-nfsgjn
+make: Nothing to be done for `all'.
+
+current directory: /Users/danieltorres/SocialMedia/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240919-56288-nfsgjn sitelibdir\=./.gem.20240919-56288-nfsgjn install
+
+current directory: /Users/danieltorres/SocialMedia/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240919-56288-nfsgjn sitelibdir\=./.gem.20240919-56288-nfsgjn clean
